@@ -4,7 +4,8 @@
 
 ## Project 1 : 📂Portfolio Website
   - The Project displays my Digital Portfolio and is made using HTML, CSS and Basic Javascript.
-  - You can check out the project here: 
+  - You can check out the project here:
+  - Project Github Page: https://sanket-rath.github.io/Portfolio-Website/index.html
 
 ## It features sections of:
 ### 📚Projects: 
