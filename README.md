@@ -3,8 +3,8 @@
 ---
 
 ## Project 1 : 📂Portfolio Website
-The Project displays my Digital Portfolio and is made using HTML, CSS and Basic Javascript.
-You can check out the project here: 
+  - The Project displays my Digital Portfolio and is made using HTML, CSS and Basic Javascript.
+  - You can check out the project here: 
 
 ## It features sections of:
 ### 📚Projects: 
