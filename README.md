@@ -25,4 +25,5 @@
 
 ## Project 2 : ➕➖✖️➗Simple Calculator
   - This is a simple yet useful Project where I made a Responsive Calculator which can be adjusted according to the different screen sizes such as mobile phones, Computers and Tablets.
-  - You can check out the project here: 
+  - You can check out the project here: https://github.com/Sanket-Rath/Simple-Calculator
+  - Project Github Page: https://sanket-rath.github.io/Simple-Calculator/index.html
